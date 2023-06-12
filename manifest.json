@@ -1,6 +1,8 @@
 {
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
+ "name": "Condomío Alto Iguaçu",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -39,7 +41,5 @@
   }
  ],
  "background_color": "#FFFFFF",
- "start_url": "index.htm",
- "name": "Condomío Alto Iguaçu",
  "description": "Tour Virtual  360 graus Condomínio Alto Iguaçu."
 }
